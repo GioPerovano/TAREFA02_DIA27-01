@@ -32,9 +32,6 @@ O projeto foi simulado na plataforma Wokwi, permitindo testar o funcionamento do
 
 [Link para a simulação na plataforma Wokwi 🤖](https://wokwi.com/projects/421833036248849409)
 
-
-
-
 ## Requisitos de Hardware 🖥️
 - **Raspberry Pi Pico**: Placa de microcontrolador.
 - **LEDs RGB**: Utilizados para exibir os números.
