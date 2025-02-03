@@ -28,13 +28,14 @@ O código responde a interrupções geradas pelos botões **BA** (incrementa) e 
 ## Simulação no Wokwi 🌐
 O projeto foi simulado na plataforma Wokwi, permitindo testar o funcionamento do código sem a necessidade de hardware físico.
 
-[Link para o vídeo de explicação no YouTube 📺](https://youtu.be/Bo8D-CeOW4c?si=i-t5zmAkYxG6X4yT))
+[Link para o vídeo de explicação no YouTube 📺](https://youtu.be/Bo8D-CeOW4c?si=i-t5zmAkYxG6X4yT)
+
 [Link para a simulação na plataforma Wokwi 🤖](https://wokwi.com/projects/421833036248849409)
 
 ## Requisitos de Hardware 🖥️
 - **Raspberry Pi Pico**: Placa de microcontrolador.
 - **LEDs RGB**: Utilizados para exibir os números.
-- **Botões**: Para incrementar e decrementar o número.
+- **Botões**: Para incrementar ou decrementar o número.
 - **Resistores**: Para proteção dos LEDs.
 
 ## Como Executar 🏃‍♂️
@@ -43,4 +44,4 @@ O projeto foi simulado na plataforma Wokwi, permitindo testar o funcionamento do
 3. Faça upload do código para a placa.
 4. Conecte os LEDs RGB nos pinos definidos no código.
 5. Pressione os botões para alterar o número exibido.
-6. Ou, baixe a abra os arquivos pelo Wokwi, e o funcionamento seguirá o do link acima.
+6. Ou, baixe a abra os arquivos pelo Wokwi, e o funcionamento seguirá o do link exibido acima.
