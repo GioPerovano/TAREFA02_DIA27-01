@@ -2,6 +2,7 @@
 
 Este projeto foi desenvolvido para controlar LEDs RGB e exibir números de 0 a 9 em um display utilizando a placa Raspberry Pi Pico, com a ajuda da biblioteca PIO para controle de LEDs e interrupções para modificar o número exibido.  
 
+
 ## Arquivos do Projeto 📁
 - **main.c**: Código principal que gerencia a exibição dos números e o controle dos LEDs.
 - **diagram.json**: Arquivo de configuração do projeto para visualização e simulação no Wokwi.
