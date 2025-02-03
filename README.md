@@ -29,6 +29,7 @@ O código responde a interrupções geradas pelos botões **BA** (incrementa) e 
 O projeto foi simulado na plataforma Wokwi, permitindo testar o funcionamento do código sem a necessidade de hardware físico.
 
 [Link para o vídeo de explicação no YouTube 📺](https://youtu.be/Bo8D-CeOW4c?si=i-t5zmAkYxG6X4yT)
+
 [Link para a simulação na plataforma Wokwi 🤖](https://wokwi.com/projects/421833036248849409)
 
 
