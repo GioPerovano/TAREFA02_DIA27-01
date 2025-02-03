@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para controlar LEDs RGB e exibir números de 0 a 9
 Este projeto utiliza LEDs RGB para exibir números de 0 a 9. A exibição dos números é realizada por meio de uma sequência de frames, com diferentes combinações de cores RGB. O usuário pode alterar o número exibido por meio de botões de interrupção, permitindo incrementar ou decrementar o número entre 0 e 9.
 
 ## Funcionalidades principais 🔧
-- **Contagem de 0 a 9**: O número exibido é alterado conforme a interação com os botões configurados para incrementar e decrementar o valor.
+- **Contagem de 0 a 9**: O número exibido é alterado conforme a interação com os botões configurados para incrementar ou decrementar o valor.
 - **Cores RGB**: Cada número é exibido com uma combinação única de cores RGB, e a intensidade das cores pode ser ajustada.
 - **Controle de LEDs**: Utilizando a tecnologia PIO, é possível controlar a intensidade e as cores dos LEDs.
 - **Botões de interrupção**: Usados para modificar o número exibido.
